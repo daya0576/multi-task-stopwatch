@@ -4,6 +4,8 @@ version = "0.1.0"
 description = "Simple stop watch, allowing for timing of a number of tasks."
 readme = 'README.md'
 authors = ["changjian.zcj <changjian.zcj@antfin.com>"]
+repository = 'https://github.com/daya0576/simple-stopwatch'
+homepage = "https://github.com/daya0576/simple-stopwatch"
 
 packages = [
     { include = "stopwatch" },
