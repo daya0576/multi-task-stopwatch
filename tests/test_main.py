@@ -17,7 +17,7 @@ class TestDropZeroPattern(unittest.TestCase):
         sw.stop()
 
         sw.start("work")
-        time.sleep(0.25)
+        time.sleep(0.35)
         sw.stop()
 
         print(sw.pretty_print())

@@ -5,6 +5,11 @@ description = "Simple stop watch, allowing for timing of a number of tasks."
 readme = 'README.md'
 authors = ["changjian.zcj <changjian.zcj@antfin.com>"]
 
+packages = [
+    { include = "stopwatch" },
+    { include = "tests", format = "sdist" },
+]
+
 [tool.poetry.dependencies]
 python = "^3.6"
 
