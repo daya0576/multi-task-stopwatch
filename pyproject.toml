@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "simple-stopwatch"
+name = "multi-task-stopwatch"
 version = "0.1.0"
 description = "Simple stop watch, allowing for timing of a number of tasks."
 readme = 'README.md'
