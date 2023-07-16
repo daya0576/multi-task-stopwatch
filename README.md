@@ -44,5 +44,6 @@ ms     %     Task name
 Install via pip:
 
 ```shell
-pip install simple-stopwatch
+pip install multi-task-stopwatch
 ```
+
